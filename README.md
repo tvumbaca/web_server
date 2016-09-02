@@ -7,6 +7,6 @@ A simple command line web server that receives requests and sends a response bas
 
 It basically handles two requests:
 
-  A GET request that serves up a small .html file. (index.html)
+A GET request that serves up a small .html file. (index.html)
 
-  A POST request that submits user input which then is used to dynamically modify part of a small template file. (thanks.html)
+A POST request that submits user input which then is used to dynamically modify part of a small template file. (thanks.html)
